@@ -1,0 +1,11 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "End to End project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon run start"
+  },
+  "author": "sai kumar",
+  "license": "ISC"
+}
